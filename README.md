@@ -10,7 +10,7 @@ The dataset used in this project is sourced from Kaggle and contains information
 
 ## Methodology
 
-The project follows the standard CRISP-DM framework:
+The project follows the standard [(CRISP-DM framework)](https://github.com/gethiten/used_car_price/tree/main/images/crisp.png) :
 
 1.  **Business Understanding:** Defining the problem of identifying key price drivers for used cars from a business perspective and reframing it as a data science task (supervised regression).
 2.  **Data Understanding:** Initial exploration of the dataset, including inspecting data types, summary statistics, checking for missing values, duplicates, and outliers, and visualizing distributions and relationships between features.
@@ -47,9 +47,9 @@ Specific regions, manufacturers, and model groups also have significant impacts 
 
 ## Repository Contents:
     
-  *  data: Contains the dataset used in the analysis [(vehicles.csv)](https://github.com/gethiten/used_car_price/tree/main/data/).
-  *  coupons.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. Link: coupons.ipynb
-  *  images/: Folder containing generated visualizations. [(Images)](https://github.com/gethiten/used_car_price/tree/main/images/)
+  *  data: Contains the dataset used in the analysis [vehicles.csv](https://github.com/gethiten/used_car_price/tree/main/data/).
+  *  coupons.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. [used_car_price_prediction.ipynb](https://github.com/gethiten/used_car_price/tree/main/used_car_price_prediction.ipynb)
+  *  images/: Folder containing generated visualizations. [Images](https://github.com/gethiten/used_car_price/tree/main/images/)
   *  README.md: This file provides an overview of the project. README.md
 
 ## Dependencies
