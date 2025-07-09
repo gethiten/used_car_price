@@ -45,6 +45,13 @@ Specific regions, manufacturers, and model groups also have significant impacts 
 5.  Review the outputs of each cell, including visualizations and printed summaries.
 6.  The final markdown cell provides a structured report summarizing the findings and recommendations.
 
+## Repository Contents:
+    
+  *  data: Contains the dataset used in the analysis (coupons.csv).
+  *  coupons.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. Link: coupons.ipynb
+  *  images/: Folder containing generated visualizations. Images Link
+  *  README.md: This file provides an overview of the project. README.md Link
+
 ## Dependencies
 
 The main libraries used in this notebook are:
