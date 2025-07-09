@@ -47,10 +47,10 @@ Specific regions, manufacturers, and model groups also have significant impacts 
 
 ## Repository Contents:
     
-  *  data: Contains the dataset used in the analysis [(vehicles.csv)](https://github.com/gethiten/used_car_price/tree/main/data/vehicles.csv).
+  *  data: Contains the dataset used in the analysis [(vehicles.csv)](https://github.com/gethiten/used_car_price/tree/main/data/).
   *  coupons.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. Link: coupons.ipynb
-  *  images/: Folder containing generated visualizations. Images Link
-  *  README.md: This file provides an overview of the project. README.md Link
+  *  images/: Folder containing generated visualizations. [(Images)](https://github.com/gethiten/used_car_price/tree/main/images/)
+  *  README.md: This file provides an overview of the project. README.md
 
 ## Dependencies
 
