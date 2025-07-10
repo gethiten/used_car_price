@@ -39,14 +39,14 @@ Specific regions, manufacturers, and model groups also have significant impacts 
 ## Repository Contents:
     
   *  data: Contains the dataset used in the analysis [vehicles.csv](https://github.com/gethiten/used_car_price/tree/main/data/).
-  *  coupons.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. [used_car_price_prediction.ipynb](https://github.com/gethiten/used_car_price/tree/main/used_car_price_prediction.ipynb)
+  *  used_car_price_prediction.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. [used_car_price_prediction.ipynb](https://github.com/gethiten/used_car_price/tree/main/used_car_price_prediction.ipynb)
   *  images/: Folder containing generated visualizations. [Images](https://github.com/gethiten/used_car_price/tree/main/images/)
   *  README.md: This file provides an overview of the project. README.md
 
 ## How to Run the Notebook
 
-1.  Ensure you have a Python environment like Google Collab or Jupyter with the necessary libraries installed (pandas, numpy, scikit-learn, matplotlib, seaborn) with latest versions.
-2.  If you are using Jupyter, make sure to have latest library as I encountered error due to different library versions.
+1.  Ensure you have a Python environment like Google Colab or Jupyter with the necessary libraries installed (pandas, numpy, scikit-learn, matplotlib, seaborn) with the latest versions.
+2.  If you are using Jupyter, make sure to have the latest library, as I encountered an error due to different library versions.
 3.  I used Google Colab to complete my project.
 4.  Upload the notebook file used_car_price.ipynb to your Jupyter environment or open it in your local environment.
 5.  Ensure the dataset (`vehicles.csv`) is in the correct location or update the file path in the notebook's data loading cell.
