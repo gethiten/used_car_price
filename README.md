@@ -36,21 +36,23 @@ Specific regions, manufacturers, and model groups also have significant impacts 
 *   Acknowledge that other factors, beyond those included in the model, also influence price.
 *   Consider further data collection and analysis for deeper insights.
 
-## How to Run the Notebook
-
-1.  Ensure you have a Python environment with the necessary libraries installed (pandas, numpy, scikit-learn, matplotlib, seaborn).
-2.  Upload the notebook file used_car_price.ipynb to your Jupyter environment or open it in your local environment.
-3.  Ensure the dataset (`vehicles.csv`) is in the correct location or update the file path in the notebook's data loading cell.
-4.  Run each code cell sequentially. The notebook is structured to follow the CRISP-DM steps.
-5.  Review the outputs of each cell, including visualizations and printed summaries.
-6.  The final markdown cell provides a structured report summarizing the findings and recommendations.
-
 ## Repository Contents:
     
   *  data: Contains the dataset used in the analysis [vehicles.csv](https://github.com/gethiten/used_car_price/tree/main/data/).
   *  coupons.ipynb: Jupyter Notebook containing the code for data exploration, analysis, and visualization. [used_car_price_prediction.ipynb](https://github.com/gethiten/used_car_price/tree/main/used_car_price_prediction.ipynb)
   *  images/: Folder containing generated visualizations. [Images](https://github.com/gethiten/used_car_price/tree/main/images/)
   *  README.md: This file provides an overview of the project. README.md
+
+## How to Run the Notebook
+
+1.  Ensure you have a Python environment like Google Collab or Jupyter with the necessary libraries installed (pandas, numpy, scikit-learn, matplotlib, seaborn) with latest versions.
+2.  If you are using Jupyter, make sure to have latest library as I encountered error due to different library versions.
+3.  I used Google Colab to complete my project.
+4.  Upload the notebook file used_car_price.ipynb to your Jupyter environment or open it in your local environment.
+5.  Ensure the dataset (`vehicles.csv`) is in the correct location or update the file path in the notebook's data loading cell.
+6.  Run each code cell sequentially. The notebook is structured to follow the CRISP-DM steps.
+7.  Review the outputs of each cell, including visualizations and printed summaries.
+8.  The final markdown cell provides a structured report summarizing the findings and recommendations.
 
 ## Dependencies
 
